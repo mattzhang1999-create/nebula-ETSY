@@ -1,0 +1,7 @@
+{
+  "name": "Etsy 多店铺经营管理系统 Pro",
+  "description": "一个全面的多店铺经营分析平台，支持管理和分析多个 Etsy 商店的销售数据，并提供 AI 智能业务洞察。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
